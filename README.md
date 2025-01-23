@@ -1,4 +1,9 @@
-# Coffee Shop Sales Analysis Using Python
+<h1 align="center">Coffee Shop Sales Analysis Using Python</h1>
+
+<p align="center">
+    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-SQL/blob/main/Header.png" alt="Header">
+</p>
+
 
 **An analytical dashboard showcasing sales performance and customer behavior insights for Maven Roasters, a fictitious coffee shop chain operating in New York City.**
 
