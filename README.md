@@ -83,7 +83,7 @@ The dataset consists of a single table (`sales`) with:
 
 ## Dashboard
 <p align="center">
-    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Python/blob/main/Dashboard Image.png" alt="Dashboard Image">
+    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Python/blob/main/Dashboard%20Image.png" alt="Dashboard Image">
 </p>
 
 ---
