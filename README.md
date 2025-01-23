@@ -101,7 +101,7 @@ The dataset consists of a single table (`sales`) with:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd coffee-shop-sales-dashboard
+   cd Coffee-Shop-Sales-Analysis-Using-Python
    ```
 3. Install dependencies:
    ```bash
