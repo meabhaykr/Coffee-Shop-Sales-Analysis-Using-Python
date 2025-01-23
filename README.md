@@ -1,9 +1,8 @@
 <h1 align="center">Coffee Shop Sales Analysis Using Python</h1>
 
 <p align="center">
-    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-SQL/blob/main/Header.png" alt="Header">
+    <img src="https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Python/blob/main/Header.png" alt="Header">
 </p>
-
 
 **An analytical dashboard showcasing sales performance and customer behavior insights for Maven Roasters, a fictitious coffee shop chain operating in New York City.**
 
@@ -24,7 +23,7 @@
 ---
 
 ## Project Background
-Maven Roasters' dataset contains 149,115 transaction records, including timestamps, store locations, and product-level details. This project aims to:
+Maven Roasters' dataset contains 149,117 transaction records, including timestamps, store locations, and product-level details. This project aims to:
 - Analyze sales performance across three NYC locations.
 - Provide insights into transaction trends, product popularity, and customer preferences.
 - Develop actionable strategies to optimize operations and enhance customer satisfaction.
@@ -35,7 +34,7 @@ The dashboard visualizes key metrics such as Total Revenue, Order Volume, and Av
 
 ## Data Structure
 The dataset consists of a single table (`sales`) with:
-- **149,115 records** detailing customer transactions.
+- **149,117 records** detailing customer transactions.
 - Fields including `transaction_id`, `timestamp`, `store_location`, `product_name`, and `order_quantity`.
 
 ---
@@ -98,7 +97,7 @@ The dataset consists of a single table (`sales`) with:
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/coffee-shop-sales-dashboard.git
+   git clone https://github.com/meabhaykr/Coffee-Shop-Sales-Analysis-Using-Python.git
    ```
 2. Navigate to the project folder:
    ```bash
